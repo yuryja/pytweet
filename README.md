@@ -1,5 +1,4 @@
 # tweetaveria
-## *porque lamentablemente es el unico canal de comunicacion...*
 Aplicación hecha en python para enviar tweets de lunes a viernes (de 8am a 5pm)
 
 ### Dependencias:
