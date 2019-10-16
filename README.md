@@ -16,17 +16,18 @@ Para ejecutar este script necesitaras:
 ### Primeras pruebas:
 
 Para ejecutarlo, es necesario escribir el siguiente comando en la terminal:
----
+```
 $ python pytweet.py
----
+```
+
 En caso de no mostrar ningun error, mostrara en pantalla: 
 
----
+```
 $ se envio el tweet!!!
----
+```
 
 Adiconalmente, en caso de haber escrito un mensaje directo, se mostrara:
 
----
+```
 $ Mensaje Directo enviado!!!
----
+```
