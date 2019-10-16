@@ -11,6 +11,11 @@ Para ejecutar este script necesitaras:
     3. access_token_key
     4. access_token_secret
 - Instalar **python-twitter** en el equipo donde se ejecutara (https://github.com/bear/python-twitter)
+Alternativamente, puedes usar el siguiente comando en tu terminal:
+```
+$ pip install python-twitter
+```
+
 - Modificar los campos twitter_handle, tweetPublico y mensajeDirecto
 
 ### Primeras pruebas:
