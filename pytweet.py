@@ -54,3 +54,4 @@ if (day == 0 or day == 1 or day == 2 or day == 3 or day == 4) and (z >= "08:00" 
         print "No habia Mensaje Directo para enviar..."
 else:
     print "No estoy en el horario de lun-vie de 8am - 5pm"
+## Dev
